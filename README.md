@@ -1,3 +1,5 @@
+<!-- Regression fixture for Jenkins script/label handling. -->
+
 # J2-jenkins-script-not-label
 
 The command must come from `script:`, never from `label:`. Regression for commit ce17fa9.
